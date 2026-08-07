@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_django",
+  "sourceSha": "af8b7d137bbdb9ac211233a19244e32d25ffeb43",
+  "templateId": "django",
+  "managedFiles": [
+    {
+      "path": ".env.example",
+      "sha256": "5149294a69ebf64885bfbaf3e4a304b21f49e260b247c77fe2373e3a21bf88ec"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "c78011aecd0e4c18d9e705c093e750219eead095d2082e890a82529f0767e45f"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "8720cfafcd4226eb969b80382ecad56485e23bdeb6b5d8442e5632411991e8c9"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "63f423c2ce34b4a1e835dd52c48288f334775c8c0648adf7145cf432cece2960"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "3500b68cccc6bf30dcde12107e27bd7030ee7e4b92ed48c9a11d51f2fa3d7cb4"
+    },
+    {
+      "path": "authapp/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "authapp/apps.py",
+      "sha256": "529834dccc412fca7d391d50c7205bea41ceab15ffda44552334881d3786620f"
+    },
+    {
+      "path": "authapp/oauth.py",
+      "sha256": "e92b0aed26ab3f4eefac2b8208516f33692afc455cd2f65212e8c8695c78b6bc"
+    },
+    {
+      "path": "authapp/tests.py",
+      "sha256": "7a0041b6f8a935235b466bfa676608063afb8e8d12405f4589d3d3f56110bcf3"
+    },
+    {
+      "path": "authapp/urls.py",
+      "sha256": "a248db4754bf71b413ea7e9b98b1e177ede2f92486ee0b8f1d56c92d4153309f"
+    },
+    {
+      "path": "authapp/views.py",
+      "sha256": "4b8589bd8b181413f8dafb75a6765718c5829c5c81daa1a93eb07afb87a9d3c6"
+    },
+    {
+      "path": "manage.py",
+      "sha256": "6ecf6dc5e643ddd71e4805a09b82dd168c504aadaa9284458b003f1a891200ad"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "b1df0366229ef837bc9054929ef3814b6341f08398a5819363857f022f8f57f4"
+    },
+    {
+      "path": "templates/dashboard.html",
+      "sha256": "029c228dec54a04d27d6bc529274f163d1d3b0adee1778dc1cc8e8f494a3c2df"
+    },
+    {
+      "path": "templates/index.html",
+      "sha256": "cfc22eeb76fddaee4a2bb9f026428d16e9e7af72e364f65b0f061169d17a01ff"
+    },
+    {
+      "path": "tuurio_starter/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "tuurio_starter/settings.py",
+      "sha256": "069a2b0ce6e6638701cc44174c41f16cacad96f36f59526e9758c3474aad2edd"
+    },
+    {
+      "path": "tuurio_starter/urls.py",
+      "sha256": "56f31e76c7195fde36bce079f1dac84e49a6205bdc9d5ff9f9fdcf895cdeabb9"
+    },
+    {
+      "path": "tuurio_starter/wsgi.py",
+      "sha256": "4a2c55f932a04295d08dca6fd2a68536290ad1bad9f5f9aa1460097c2fcbebb3"
+    }
+  ]
+}
