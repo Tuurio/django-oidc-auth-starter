@@ -2,13 +2,21 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_django",
-  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
-  "packageSha256": "25ef1651c49e72f03cf7994acf0597160a662c6580a76e53a68f38a93fd03251",
+  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
+  "packageSha256": "57401e8f1a6c4cadb20ce423e644c3d8a3c62885e6214fc02ce54df298685dab",
   "templateId": "django",
   "managedFiles": [
     {
       "path": ".env.example",
       "sha256": "5149294a69ebf64885bfbaf3e4a304b21f49e260b247c77fe2373e3a21bf88ec"
+    },
+    {
+      "path": ".github/social-preview.png",
+      "sha256": "7964613bf525e0184a35ae69b9a2a3a3d81e541e374dd8b73a1a052ce968ee53"
+    },
+    {
+      "path": ".github/social-preview.svg",
+      "sha256": "f29129c79aa6ac016a38b3091b757a5e428d1f16655d7c0efac323d9b5f33136"
     },
     {
       "path": ".github/workflows/verify.yml",
@@ -28,7 +36,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "3500b68cccc6bf30dcde12107e27bd7030ee7e4b92ed48c9a11d51f2fa3d7cb4"
+      "sha256": "d43560b3747ebfef711719c66033fdea3efa30969b1950e70eaf337686b6a4e5"
     },
     {
       "path": "authapp/__init__.py",

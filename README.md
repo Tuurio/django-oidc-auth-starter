@@ -4,6 +4,8 @@ Django authentication starter for Tuurio ID with server-side sessions and standa
 
 [![Verify template](https://github.com/Tuurio/django-oidc-auth-starter/actions/workflows/verify.yml/badge.svg)](https://github.com/Tuurio/django-oidc-auth-starter/actions/workflows/verify.yml)
 
+![Django OIDC Auth Starter social preview](.github/social-preview.png)
+
 > Generated from [`Tuurio/auth_samples/auth_samples_django`](https://github.com/Tuurio/auth_samples/tree/main/auth_samples_django). Submit implementation fixes upstream so they are not replaced by the next synchronized release.
 
 ## What you get
