@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_django",
-  "sourceSha": "6833b4a83ac9aaa09f289f5de9d02aa1fa053e7d",
-  "packageSha256": "1f7b7995e7d3ad3252bce83096c75699cbb2b9f0b94caf2585f0ea0d1e7636ee",
+  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
+  "packageSha256": "25ef1651c49e72f03cf7994acf0597160a662c6580a76e53a68f38a93fd03251",
   "templateId": "django",
   "managedFiles": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "path": "authapp/tests.py",
-      "sha256": "7a0041b6f8a935235b466bfa676608063afb8e8d12405f4589d3d3f56110bcf3"
+      "sha256": "97eef208287d6f5486253be208784bcda30896562ee086344ac4fce17c1cd443"
     },
     {
       "path": "authapp/urls.py",
@@ -52,7 +52,7 @@
     },
     {
       "path": "authapp/views.py",
-      "sha256": "4b8589bd8b181413f8dafb75a6765718c5829c5c81daa1a93eb07afb87a9d3c6"
+      "sha256": "5f8e0d106be8442c068dc671fe6616a655504b96520fcf5043b3004391e1c9d2"
     },
     {
       "path": "manage.py",
@@ -76,7 +76,7 @@
     },
     {
       "path": "tuurio_starter/settings.py",
-      "sha256": "069a2b0ce6e6638701cc44174c41f16cacad96f36f59526e9758c3474aad2edd"
+      "sha256": "b99834f8b27741815611859979680f9a1e0dc4ce8b48f9289bd8b17ab5ed9db2"
     },
     {
       "path": "tuurio_starter/urls.py",
