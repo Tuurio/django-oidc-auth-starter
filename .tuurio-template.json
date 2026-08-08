@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_django",
-  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
-  "packageSha256": "57401e8f1a6c4cadb20ce423e644c3d8a3c62885e6214fc02ce54df298685dab",
+  "sourceSha": "7e52e3bf428164ad36fd550011263ac9d6848761",
+  "packageSha256": "c9bf510a2b22c6b34cd9e2f8d78ec12568f84b22f83d2bac53f85de3f8f1f061",
   "templateId": "django",
   "managedFiles": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "path": ".github/workflows/verify.yml",
-      "sha256": "c78011aecd0e4c18d9e705c093e750219eead095d2082e890a82529f0767e45f"
+      "sha256": "008c96e1fa682b3f3e17caebcf8b15d314d4150fc9d2b0216603c82522c34a93"
     },
     {
       "path": ".gitignore",
